@@ -1,2 +1,2 @@
-# lexie.github.io
+# lexiexyl.github.io
 This is my portfolio website.
