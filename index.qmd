@@ -7,3 +7,11 @@ I am a thoughtful, intellectually curious individual with a strong academic and 
 I am bilingual in Chinese and English. 我可以教你中文。 I enjoy basketball, skiing, and tennis, and bring the same dedication and curiosity to their personal interests as they do to their work.
 
 I'm also a new single mom, seeking ways to balancing my studies and responsibilities with grade and resilience.
+
+
+```{python}
+x=1
+y=2
+z=x+y
+print("The sum of", x, "and", y, "is", z)
+```
